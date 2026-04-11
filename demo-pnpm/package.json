@@ -2,10 +2,12 @@
   "name": "demo-pnpm",
   "version": "1.0.0",
   "dependencies": {
-    "yaml": "^2.8.3"
+    "rulespec": "^0.7.0"
+  },
+  "optionalDependencies": {
+    "type-check": "^0.4.0"
   },
   "devDependencies": {
-    "husky": "^9.1.7",
-    "minimatch": "^10.2.5"
+    "brace-expansion": "^5.0.5"
   }
 }
