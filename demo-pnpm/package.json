@@ -2,9 +2,10 @@
   "name": "demo-pnpm",
   "version": "1.0.0",
   "dependencies": {
-    "yaml": "^2.7.1"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
-    "husky": "^9.1.7"
+    "husky": "^9.1.7",
+    "minimatch": "^10.2.5"
   }
 }
